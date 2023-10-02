@@ -1,4 +1,9 @@
-## SQLite Lab
+Jiechen_Li_Mini_5_SQLite
+
+The purpose of this repo:
+* Connect to a SQL database
+* Perform CRUD operations
+* Write at least two different SQL queries
 
 ### Lab:
 
