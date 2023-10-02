@@ -1,9 +1,11 @@
-Jiechen_Li_Mini_5_SQLite
+[![CI](https://github.com/nogibjj/Jiechen_Li_MIni_5_SQLite/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Jiechen_Li_MIni_5_SQLite/actions/workflows/cicd.yml)
 
-The purpose of this repo:
-* Connect to a SQL database
-* Perform CRUD operations
-* Write at least two different SQL queries
+## Jiechen_Li_Mini_5_SQLite
+
+## Purpose
+* To connect to a SQL database
+* To perform CRUD operations
+* To write at least two different SQL queries
 
 ### Lab:
 
