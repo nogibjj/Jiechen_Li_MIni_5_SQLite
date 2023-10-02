@@ -1,7 +1,7 @@
 import requests
 
 def extract(
-    url="https://raw.githubusercontent.com//workspaces/Jiechen_Li_MIni_5_SQLite/mylib/spotify_2023_1.csv", 
+    url="https://raw.githubusercontent.com//workspaces/Jiechen_Li_Mini_5_SQLite/mylib/spotify_2023_1.csv", 
     file_path="spotify_2023_1.csv"
 ):
     """Extract a url to a file path"""
